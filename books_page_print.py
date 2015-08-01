@@ -16,6 +16,7 @@ def print_pages(page_count, print_set):
 			k += 2
 			j += 1
 		i += 1
+		j = 0
 	k = 0
 	i = 0
 	j = 0
@@ -38,6 +39,7 @@ def print_pages(page_count, print_set):
 			k += 2
 			j += 1
 		i += 1
+		j = 0
 	k = 1
 	i = 0
 	j = 0
